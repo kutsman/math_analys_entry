@@ -40,6 +40,29 @@ $lim_{x→0}\frac{sin(2x)}{4x}$;
 <br>$lim_{x→∞}\frac{sinx+lnx}{x}$;
 <br>$lim_{x→0}\frac{sinx+lnx}{x}$;
 
+## Lesson 5
+
+#### 1. Найти пределы:
+<br>1) $lim_{x→∞}[ln(x+3)-lnx]$; 
+<br><br>2) $lim_{x→0}\frac{ln(1+2x)}{arcsin3x}$;
+<br><br>3) $lim_{x→0}\frac{7^x-1}{3^x-1}$;
+<br><br>4) $lim_{a→0}\frac{(x+a)^3-x^3}{a}$;
+<br><br>5) $lim_{x→∞}(\frac{x^3}{5x^2+1}-\frac{x^2}{5x-3})$;
+<br><br>6) $lim_{x→0}\frac{1-cos4x}{2x \cdot tg2x}$;
+<br><br>7) $lim_{x→∞}xsin(\frac{2}{x})$;
+<br><br>8) $lim_{x→0}(1+tgx)^{ctgx}$;
+<br><br>9) $lim_{x→0}(cos2x)^{\frac{1}{sin^2x}}$; 
+<br><br>10) $lim_{x→0}\frac{\sqrt{1+xsinx}-1}{x^2}$; 
+
+#### 2. Установить характер разрыва функции в точке $x_0$:
+
+<br>1. $f(x)=\frac{x^2-16}{x+4}, x_0=-4;$
+<br>2. $f(x)=\frac{sinx}{x}, x_0=0;$
+
+#### 3. Исследовать на непрерывность функцию $f(x)$ в точке $x_0$:
+<br>1. $f(x)=arctg\frac{2}{x-1}, x_0=1;$
+<br>2. $f(x)=\frac{1}{2^{x-3}-1}, x_0=3;$
+
 ## Lesson 6
 
 #### 1. Найти производную выражения:
